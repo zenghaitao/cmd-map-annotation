@@ -6,7 +6,7 @@
         "php",
         "hyperf"
     ],
-    "description": "",
+    "description": "Hyperf下自定义的cmd注解类",
     "autoload": {
         "psr-4": {
             "ZenStudio\\CmdMapAnnotation\\": "src/"
