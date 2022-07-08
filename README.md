@@ -1,5 +1,5 @@
 # cmd-map-annotation
 
 ```
-composer require cmd-map-annotation
+composer require zen-studio/cmd-map-annotation
 ```
