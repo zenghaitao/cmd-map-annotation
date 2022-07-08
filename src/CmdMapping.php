@@ -32,8 +32,4 @@ class CmdMapping extends AbstractAnnotation
      */
     public string $method;
 
-    public function __construct(...$value)
-    {
-        parent::__construct(...$value);
-    }
 }
